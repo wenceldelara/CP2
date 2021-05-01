@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\bin\Debug\CP2_Midterms.exe
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\bin\Debug\CP2_Midterms.pdb
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.Properties.Resources.resources
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.exe
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.pdb
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.login.resources
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.registration.resources
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.enrollment.resources
+C:\Users\USER\source\repos\CP2_Midterms\CP2_Midterms\obj\Debug\CP2_Midterms.Irregular.resources
